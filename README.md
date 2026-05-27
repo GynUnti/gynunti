@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Introduction
-I'm Tri...
-Welcome to my profile...
-Feel free to look around... (*There's nothing to see*)
+I'm Tri!
+Welcome to my profile. On here, I will share some of my personal projects, as well as stuff I've learned. 
+Feel free to look around... (*There's nothing much to see* **yet😉️**)
